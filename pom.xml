@@ -31,9 +31,9 @@
    </plugins>
   </build>
   
-  <properties>
-    <sonar.organization>jenkins-demo-sp</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  </properties>
+<properties>
+  <sonar.organization>jenkins-demo-sp</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   
 </project>
